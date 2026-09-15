@@ -6,9 +6,11 @@ import Produtos from './pages/Produtos'
 import Contato from './pages/Contato'
 const App = () => {
   return (
-    <div>
+    <Router>
+    <div className=''>
       
     </div>
+    </Router>
   )
 }
 
