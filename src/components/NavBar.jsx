@@ -1,6 +1,6 @@
 
 
-const App = () => {
+const NavBar = () => {
   return (
     <div>
       
@@ -8,4 +8,4 @@ const App = () => {
   )
 }
 
-export default App
+export default NavBar

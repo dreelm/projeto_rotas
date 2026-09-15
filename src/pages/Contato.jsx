@@ -2,9 +2,7 @@
 
 const Contato = () => {
   return (
-    <div>
-      
-    </div>
+ <h1> fale conosco</h1>
   )
 }
 
